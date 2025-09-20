@@ -40,4 +40,4 @@ Folium for interactive mapping
 JSON for data handling
 
 ## Tableau Presentation
-https://public.tableau.com/views/WhatmakesaUniversitygreat/WhatmakesaUniversitygreat?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/558Z96T7J?:display_count=n&:origin=viz_share_link
